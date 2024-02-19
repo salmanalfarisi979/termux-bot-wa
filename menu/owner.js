@@ -4,8 +4,8 @@ return `
 
 ╭─────≽「 *REGULATION ${name}* 」
 ┴
-┣⊱  ${a}NAMA USER:${a} *${pushname2}*
-┣⊱  ${a}NAMA GRUP:${a} *${groupName}*
+┣⊱  ${a}NAMA USER:${a} *${bot lexzy}*
+┣⊱  ${a}NAMA GRUP:${a} *${lexzy}*
 ┣⊱  ${a}VERSION:${a} *0.0.0*
 ┣⊱  ${a}USER TERDAFTAR:${a} *${user.length} User*
 ┬
@@ -39,6 +39,7 @@ return `
 ┠≽ *${prefix}clearall*
 ┠≽ *${prefix}delete*
 ┠≽ *${prefix}clone*
+┠≽ *${prefix}linkmaaf*
 ┠≽ *${prefix}leave*
 ┬
 ╰────────────────────────
